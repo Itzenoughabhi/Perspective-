@@ -1,0 +1,22 @@
+BODY{
+    background: #000;
+   
+}
+h1{
+    color: rgb(196, 22, 22);
+}
+.virat{
+    position: absolute;
+    bottom: 50%;
+   right: 50%;
+    transform: translate(50%, 50%);
+    align-items: center;
+    perspective: 700px;
+}
+    h1{
+        position: relative;
+    }
+    img{
+        transform: rotateX(50deg);
+        transform: rotateY(20deg);
+    }
